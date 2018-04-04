@@ -10,4 +10,6 @@ Font-awesome: https://fontawesome.com/icons
 
 Bootstrap: https://getbootstrap.com/
 
-Demo: https://luke84320136.github.io/Blog-demo/blog
+Blog Demo: https://luke84320136.github.io/liveDemo/blog
+
+Landing Page Demo : https://luke84320136.github.io/liveDemo/landingPage
